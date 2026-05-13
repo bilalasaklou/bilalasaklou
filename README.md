@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**bilalasaklou/bilalasaklou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bilal Asaklou, a Master's student in Artificial Intelligence and Digital Computing with a strong interest in Machine Learning, Deep Learning, and Data Science.
 
-Here are some ideas to get you started:
+## About Me
+- Passionate about Artificial Intelligence and emerging technologies
+- Interested in research and real-world AI applications
+- Currently working on projects related to data analysis and predictive modeling
+- Always learning and exploring new tools and technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Python
+- Machine Learning & Deep Learning
+- Data Analysis & Visualization
+- SQL & Databases
+- Git & GitHub
+
+## Areas of Interest
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Data Science
+- Bioinformatics
+- Medical AI
+
+## Projects
+Here you can find some of my academic and personal projects related to:
+- Machine Learning
+- Deep Learning
+- Data Analysis
+- AI Applications
+
+## Contact
+📧 Email: billalasaklou@gmail.com
