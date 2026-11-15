@@ -111,8 +111,8 @@ Research objectives include developing robust, interpretable, and generalizable 
 I am interested in academic collaborations, scientific research, and opportunities in Artificial Intelligence and Computational Biology.
 
 - 📧 **Email:** [billalasaklou@gmail.com](mailto:billalasaklou@gmail.com)
-- 💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/)
-- 💻 **GitHub:** [My GitHub Profile](https://github.com/)
+- 💼 **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/bilal-asaklou)
+- 💻 **GitHub:** [My GitHub Profile](https://github.com/bilalasaklou)
 
 ---
 
